@@ -9,7 +9,7 @@ This method is used to convert .string file into .xml
 
 ### ExecuteMerge
 Used to merge all xml separate files from specific path into one .xml
-This can be used, for example, if all strings in android/ios project are splitted into a lot of separated xmls
+This can be used, for example, if all strings in android/ios project are splitted into a lot of separated xmls (To combine all separated android xmls into one xml, or the same for ios)
 
 ### Execute Comparator
 Used to compare key values between xml1 and xml2.
