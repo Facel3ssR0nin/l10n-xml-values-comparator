@@ -14,7 +14,7 @@ This can be used, for example, if all strings in android/ios project are splitte
 ### Execute Comparator
 Used to compare key values between xml1 and xml2.
 This tool can be helpful to check l10n between projects even when keys are not the same between 2 xmls, but have partial equality in values (starting from 50%). 
-If xml1 value1 is <= 50% xml2 valu2 and etc - value will be skipped.
+If xml1 value1 is < 50% xml2 valu2 and etc - value will be skipped.
 
 All results can be obtained within console.log file which is automatically generated in the project root
 
