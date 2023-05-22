@@ -1,2 +1,2 @@
 # xml-strings-comparator
-Tool for comparing strings  from 2 xml files
+Tool for comparing strings  from 2 xml files by using levenshtein method
