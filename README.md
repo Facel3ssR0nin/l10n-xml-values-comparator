@@ -2,7 +2,7 @@
 Tool for comparing strings  from 2 xml files by using levenshtein method and partial key values equality
 
 ## Usage
-There are three main executable methord.
+There are three main executable methods.
 
 ### ExecuteConverter
 This method is used to convert .string file into .xml
