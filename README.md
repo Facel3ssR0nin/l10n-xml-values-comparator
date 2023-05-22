@@ -11,7 +11,7 @@ This method is used to convert .string file into .xml
 Used to merge all xml separate files from specific path into one .xml
 This can be used, for example, if all strings in android/ios project are splitted into a lot of separated xmls (To combine all separated android xmls into one xml, or the same for ios)
 
-### Execute Comparator
+### ExecuteComparator
 Used to compare key values between xml1 and xml2.
 This tool can be helpful to check l10n between projects even when keys are not the same between 2 xmls, but have partial equality in values (starting from 50%). 
 If xml1 value1 is < 50% xml2 valu2 and etc - value will be skipped.
