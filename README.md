@@ -2,6 +2,8 @@
 Tool for comparing strings  from 2 xml files by using levenshtein method and partial key values equality
 
 ## Usage
+Control accurance by changing "similarity" value (the less value - more inaccurate results, but less values skipped)
+
 There are three main executable methods.
 
 ### ExecuteConverter
