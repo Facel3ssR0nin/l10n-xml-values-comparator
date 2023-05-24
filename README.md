@@ -2,6 +2,7 @@
 Tool for comparing strings  from 2 xml files by using levenshtein method and partial key values equality
 
 ## Usage
+You need to change path in all files to your local root.
 Control accurance by changing "similarity" value (the less value - more inaccurate results, but less values skipped)
 
 There are three main executable methods.
